@@ -24,7 +24,7 @@ Set up RESTful APIs in Node.js to handle CRUD operations for vehicles and their 
 Implement data validation and error handling to ensure that the data stored in the database is accurate and consistent.
 
 ### Testing:
-Write unit and integration tests to ensure the reliability and stability of your application.
+Write unit and integration tests to ensure the reliability and stability of your application. **Selenium** will be used for testing.
 
 ### Deployment:
 Deploy your Node.js backend and React frontend on a hosting platform of your choice. Popular options include AWS, Heroku, or Vercel for frontend and backend hosting. Set up a MySQL database instance for production use.
